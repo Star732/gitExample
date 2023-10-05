@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName 
 boss,xtang244,Tang,Xingyu
 employee,amsikora2,Sikora,Abigail
+employee, RZJing5, Jing, Ruizhen
