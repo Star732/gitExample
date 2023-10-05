@@ -1,2 +1,3 @@
-boss, xtang244, Tang, Xingyu
+role,NetID,LastName,FirstName 
+boss,xtang244,Tang,Xingyu
 employee,amsikora2,Sikora,Abigail
